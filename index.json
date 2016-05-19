@@ -16,6 +16,9 @@
     "prefer-const": 0,
     "prefer-reflect": 0,
     "prefer-template": 0,
-    "yield-star-spacing": "before"
+    "yield-star-spacing": [
+    	2,
+    	"after"
+    ]
   }
 }
