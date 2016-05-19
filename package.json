@@ -1,0 +1,6 @@
+{
+  "name": "eslint-config-gifs",
+  "version": "1.0.0",
+  "description": "Shareable eslint config for gifs.com team",
+  "author": "gifs.com <hello@gifs.com>"
+}
